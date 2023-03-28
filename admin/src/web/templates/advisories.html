@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Advisories{% endblock %}
+
+{% block content %}
+<main class="advisories">
+  <article>
+    <header>
+      {% include "menu.html" %}
+    </header>
+
+    <ul>
+      {% for (advisory, cdate, rendered_title, advisory_title_type) in advisories %}
+      {% include "advisory-list-entry.html" %}
+      {% endfor %}
+    </ul>
+  </article>
+</main>
+{% endblock %}
