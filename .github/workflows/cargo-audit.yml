@@ -5,7 +5,7 @@ on:
     paths:
       - ".github/workflows/cargo-audit.yml"
       - "cargo-audit/**"
-      - "rustsec/**"
+      - "threatcode/**"
       - "Cargo.*"
   push:
     branches: main
