@@ -35,8 +35,8 @@ additional terms or conditions.
 [crate-link]: https://crates.io/crates/rustsec-admin
 [docs-image]: https://docs.rs/rustsec-admin/badge.svg
 [docs-link]: https://docs.rs/rustsec-admin/
-[build-image]: https://github.com/RustSec/rustsec/actions/workflows/admin.yml/badge.svg
-[build-link]: https://github.com/RustSec/rustsec/actions/workflows/admin.yml
+[build-image]: https://github.com/threatcode/rustsec/actions/workflows/admin.yml/badge.svg
+[build-link]: https://github.com/threatcode/rustsec/actions/workflows/admin.yml
 [safety-image]: https://img.shields.io/badge/unsafe-forbidden-success.svg
 [safety-link]: https://github.com/rust-secure-code/safety-dance/
 [rustc-image]: https://img.shields.io/badge/rustc-1.52+-blue.svg
@@ -46,6 +46,6 @@ additional terms or conditions.
 
 [//]: # (general links)
 
-[cargo-audit]: https://github.com/RustSec/cargo-audit
-[LICENSE-APACHE]: https://github.com/RustSec/rustsec-admin/blob/main/LICENSE-APACHE
-[LICENSE-MIT]: https://github.com/RustSec/rustsec-admin/blob/main/LICENSE-MIT
+[cargo-audit]: https://github.com/threatcode/cargo-audit
+[LICENSE-APACHE]: https://github.com/threatcode/rustsec-admin/blob/main/LICENSE-APACHE
+[LICENSE-MIT]: https://github.com/threatcode/rustsec-admin/blob/main/LICENSE-MIT
