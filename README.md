@@ -5,7 +5,7 @@ against Rust crates published via [crates.io](https://crates.io).
 
 The advisory database itself can be found at:
 
-https://github.com/RustSec/advisory-db
+https://github.com/threatcode/advisory-db
 
 ## About this repository
 
@@ -19,7 +19,7 @@ by the RustSec project:
 | [`cvss`]          | Common Vulnerability Scoring System      | [![crates.io](https://img.shields.io/crates/v/cvss.svg)](https://crates.io/crates/cvss) | [![Documentation](https://docs.rs/cvss/badge.svg)](https://docs.rs/cvss) | [![CI](https://github.com/threatcode/rustsec/actions/workflows/cvss.yml/badge.svg)](https://github.com/threatcode/rustsec/actions/workflows/cvss.yml) |
 | [`platforms`]     | Rust platform registry                   | [![crates.io](https://img.shields.io/crates/v/platforms.svg)](https://crates.io/crates/platforms) | [![Documentation](https://docs.rs/platforms/badge.svg)](https://docs.rs/platforms) | [![CI](https://github.com/threatcode/rustsec/actions/workflows/platforms.yml/badge.svg)](https://github.com/threatcode/rustsec/actions/workflows/platforms.yml) |
 | [`rustsec`]       | Advisory DB client library               | [![crates.io](https://img.shields.io/crates/v/rustsec.svg)](https://crates.io/crates/rustsec) | [![Documentation](https://docs.rs/rustsec/badge.svg)](https://docs.rs/rustsec) | [![CI](https://github.com/threatcode/rustsec/actions/workflows/rustsec.yml/badge.svg)](https://github.com/RustSec/rustsec/actions/workflows/rustsec.yml) |
-| [`rustsec‑admin`] | Linter and web site generator            | [![crates.io](https://img.shields.io/crates/v/rustsec-admin.svg)](https://crates.io/crates/rustsec-admin) | [![Documentation](https://docs.rs/rustsec-admin/badge.svg)](https://docs.rs/rustsec-admin) | [![CI](https://github.com/RustSec/rustsec/actions/workflows/admin.yml/badge.svg)](https://github.com/threatcode/rustsec/actions/workflows/admin.yml) |
+| [`rustsec‑admin`] | Linter and web site generator            | [![crates.io](https://img.shields.io/crates/v/rustsec-admin.svg)](https://crates.io/crates/rustsec-admin) | [![Documentation](https://docs.rs/rustsec-admin/badge.svg)](https://docs.rs/rustsec-admin) | [![CI](https://github.com/threatcode/rustsec/actions/workflows/admin.yml/badge.svg)](https://github.com/threatcode/rustsec/actions/workflows/admin.yml) |
 
 ## License
 
@@ -36,5 +36,5 @@ at your option.
 [`cargo‑lock`]: https://github.com/threatcode/rustsec/tree/main/cargo-lock
 [`cvss`]: https://github.com/threatcode/rustsec/tree/main/cvss
 [`platforms`]: https://github.com/threatcode/rustsec/tree/main/platforms
-[`rustsec`]: https://github.com/RustSec/rustsec/tree/main/rustsec
-[`rustsec‑admin`]: https://github.com/RustSec/rustsec/tree/main/admin
+[`rustsec`]: https://github.com/threatcode/rustsec/tree/main/rustsec
+[`rustsec‑admin`]: https://github.com/threatcode/rustsec/tree/main/admin
